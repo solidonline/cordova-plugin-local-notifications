@@ -19,8 +19,6 @@
  * limitations under the License.
  */
 
-// codebeat:disable[TOO_MANY_FUNCTIONS]
-
 package de.appplant.cordova.plugin.notification;
 
 import android.annotation.SuppressLint;
@@ -58,7 +56,7 @@ public final class Manager {
     static final String CHANNEL_ID = "default-channel-id";
 
     // TODO: temporary
-    private static final CharSequence CHANNEL_NAME = "Уведомления при открытом приложении";
+    private static final CharSequence CHANNEL_NAME = "Default channel";
 
     // The application context
     private Context context;
@@ -417,5 +415,3 @@ public final class Manager {
     }
 
 }
-
-// codebeat:enable[TOO_MANY_FUNCTIONS]
