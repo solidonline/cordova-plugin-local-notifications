@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7409509-8be0-4686-95cc-8df3713500bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/android/notification/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/android/notification/Manager.java" afterDir="false" />
-    </list>
+    <list default="true" id="f7409509-8be0-4686-95cc-8df3713500bd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/notification/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="60" column="91" lean-forward="true" selection-start-line="60" selection-start-column="91" selection-end-line="60" selection-end-column="91" />
+            <state relative-caret-position="204">
+              <caret line="60" column="89" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="32" column="69" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -31,6 +36,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>default channel</find>
+      <find>CHANNEL_NAME</find>
+      <find>cordova-plugin-local-notification</find>
     </findStrings>
     <dirStrings>
       <dir>C:\work\solid_app\cordova-plugin-local-notifications</dir>
@@ -72,6 +79,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -99,12 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580242701123</updated>
-      <workItem from="1580242702527" duration="36000" />
+      <workItem from="1580242702527" duration="1949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36000" />
+    <option name="totallyTimeSpent" value="1949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="129" y="114" width="1776" height="1087" extended-state="0" />
@@ -135,8 +143,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/android/notification/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="60" column="91" lean-forward="true" selection-start-line="60" selection-start-column="91" selection-end-line="60" selection-end-column="91" />
+        <state relative-caret-position="204">
+          <caret line="60" column="89" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="69" />
         </state>
       </provider>
     </entry>
