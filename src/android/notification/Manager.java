@@ -56,7 +56,7 @@ public final class Manager {
     static final String CHANNEL_ID = "default-channel-id";
 
     // TODO: temporary
-    private static final CharSequence CHANNEL_NAME = "Default channel";
+    private static final CharSequence CHANNEL_NAME = "Оповещения при открытом приложении";
 
     // The application context
     private Context context;
