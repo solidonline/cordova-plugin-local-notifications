@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-local-notification",
+  "name": "cordova-plugin-local-notification-solid-fork",
   "version": "0.9.0-beta.3",
   "description": "Schedules and queries for local notifications",
   "cordova": {
-    "id": "cordova-plugin-local-notification",
+    "id": "cordova-plugin-local-notification-solid-fork",
     "platforms": [
       "android",
       "ios",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-local-notifications.git"
+    "url": "git+https://github.com/solidonline/cordova-plugin-local-notifications.git"
   },
   "keywords": [
     "appplant",
