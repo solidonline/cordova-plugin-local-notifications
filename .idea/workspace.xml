@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f7409509-8be0-4686-95cc-8df3713500bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local-notification-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local-notification-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/local-notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/local-notification.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/notification/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="56" />
+            <state relative-caret-position="292">
+              <caret line="32" column="69" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -36,40 +39,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="85" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="85" />
+            <state relative-caret-position="-49">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/local-notification.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="757">
-              <caret line="314" column="2" selection-start-line="314" selection-start-column="2" selection-end-line="314" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/local-notification-core.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/local-notification-util.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
-              <caret line="96" column="62" selection-start-line="96" selection-start-column="62" selection-end-line="96" selection-end-column="62" />
+              <caret line="553" column="62" selection-start-line="553" selection-start-column="62" selection-end-line="553" selection-end-column="62" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +62,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>default channel</find>
+      <find>ordova-plugin-local-notification</find>
       <find>CHANNEL_NAME</find>
       <find>cordova-plugin-local-notification</find>
     </findStrings>
@@ -92,11 +76,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/local-notification.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/plugin.xml" />
         <option value="$PROJECT_DIR$/www/local-notification-util.js" />
         <option value="$PROJECT_DIR$/src/android/notification/Manager.java" />
+        <option value="$PROJECT_DIR$/plugin.xml" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/www/local-notification.js" />
       </list>
     </option>
   </component>
@@ -177,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580242701123</updated>
-      <workItem from="1580242702527" duration="3951000" />
+      <workItem from="1580242702527" duration="4173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3951000" />
+    <option name="totallyTimeSpent" value="4173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="129" y="114" width="1776" height="1087" extended-state="0" />
@@ -211,27 +195,24 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/android/notification/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="85" />
+        <state relative-caret-position="170">
+          <caret line="58" column="88" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="88" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="56" />
+        <state relative-caret-position="292">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/local-notification.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="314" column="2" selection-start-line="314" selection-start-column="2" selection-end-line="314" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="-49">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -247,14 +228,17 @@
     <entry file="file://$PROJECT_DIR$/www/local-notification-util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="96" column="62" selection-start-line="96" selection-start-column="62" selection-end-line="96" selection-end-column="62" />
+          <caret line="96" column="51" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/android/notification/Manager.java">
+    <entry file="file://$PROJECT_DIR$/www/local-notification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="58" column="88" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="88" />
+        <state relative-caret-position="292">
+          <caret line="553" column="62" selection-start-line="553" selection-start-column="62" selection-end-line="553" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
