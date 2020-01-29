@@ -1,9 +1,9 @@
 {
   "name": "cordova-plugin-local-notification-solid-fork",
-  "version": "0.9.0-beta.2",
+  "version": "0.9.0-beta.3",
   "description": "Schedules and queries for local notifications",
   "cordova": {
-    "id": "cordova-plugin-local-notification",
+    "id": "cordova-plugin-local-notification-solid-fork",
     "platforms": [
       "android",
       "ios",
