@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7409509-8be0-4686-95cc-8df3713500bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/android/notification/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/android/notification/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -177,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580242701123</updated>
-      <workItem from="1580242702527" duration="3353000" />
+      <workItem from="1580242702527" duration="3951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3353000" />
+    <option name="totallyTimeSpent" value="3951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="129" y="114" width="1776" height="1087" extended-state="0" />
